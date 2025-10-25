@@ -1,0 +1,695 @@
+﻿Car Name,KM Driven,Manufactured Year,Fuel Type,Transmission,Price
+Maruti Ciaz,8.32k km,2023,Petrol,Auto,₹8.15 lakh
+Maruti Wagon R 1.0,43.42k km,2017,Petrol,Manual,₹2.91 lakh
+Maruti Ritz,99.20k km,2013,Petrol,Manual,₹1.65 lakh
+Maruti FRONX,24.00k km,2023,Petrol,Auto,₹8.46 lakh
+Maruti Ciaz,36.60k km,2022,Petrol,Manual,₹6.40 lakh
+Maruti Celerio,1.2L km,2020,CNG,Manual,₹3.75 lakh
+Maruti Celerio,91.09k km,2017,Petrol,Manual,₹2.58 lakh
+Maruti Alto K10,51.53k km,2015,Petrol,Auto,₹1.93 lakh
+Maruti Baleno,43.39k km,2016,Petrol,Manual,₹3.56 lakh
+Maruti Swift,65.37k km,2017,Petrol,Manual,₹3.46 lakh
+Maruti Swift,73.25k km,2012,Petrol,Manual,₹2.08 lakh
+Maruti Dzire,50.71k km,2017,Diesel,Auto,₹4.95 lakh
+Maruti Wagon R 1.0,70.70k km,2014,CNG,Manual,₹1.96 lakh
+Maruti Baleno,33.86k km,2017,Petrol,Manual,₹4.02 lakh
+Maruti Celerio,76.69k km,2020,CNG,Manual,₹3.70 lakh
+Maruti Swift Dzire,98.75k km,2016,Petrol,Manual,₹3.10 lakh
+Maruti Alto 800,25.89k km,2015,Petrol,Manual,₹1.85 lakh
+Maruti Wagon R 1.0,50.78k km,2016,CNG,Manual,₹2.90 lakh
+Maruti Ciaz,36.15k km,2021,Petrol,Manual,₹5.27 lakh
+Maruti Dzire,94.70k km,2018,CNG,Auto,₹4.70 lakh
+Maruti Wagon R 1.0,60.67k km,2013,Petrol,Manual,₹2.49 lakh
+Maruti Alto,29.98k km,2021,CNG,Manual,₹3.11 lakh
+Maruti Dzire,82.86k km,2017,Diesel,Manual,₹5.50 lakh
+Maruti Swift,32.86k km,2017,Petrol,Manual,₹3.45 lakh
+Maruti Swift Dzire,61.45k km,2016,Petrol,Auto,₹3.61 lakh
+Maruti Wagon R 1.0,1.1L km,2012,CNG,Manual,₹1.75 lakh
+Maruti Swift Dzire,34.74k km,2014,Petrol,Manual,₹3.12 lakh
+Maruti Baleno,57.06k km,2023,Petrol,Auto,₹7.50 lakh
+Maruti Wagon R 1.0,23.98k km,2016,Petrol,Auto,₹2.87 lakh
+Maruti Baleno,53.61k km,2019,Petrol,Manual,₹4.50 lakh
+Maruti XL6,28.27k km,2021,Petrol,Auto,₹9.00 lakh
+Maruti Ertiga,55.72k km,2015,Petrol,Manual,₹4.92 lakh
+Maruti Celerio,47.08k km,2017,Petrol,Auto,₹3.15 lakh
+Maruti S PRESSO,11.55k km,2020,Petrol,Auto,₹3.44 lakh
+Maruti Swift,36.30k km,2014,Petrol,Manual,₹3.15 lakh
+Maruti IGNIS,26.86k km,2017,Petrol,Auto,₹3.79 lakh
+Maruti Wagon R Stingray,1.3L km,2014,CNG,Manual,₹2.55 lakh
+Maruti Ertiga,51.98k km,2018,Petrol,Manual,₹6.50 lakh
+Maruti Celerio,59.27k km,2017,Petrol,Auto,₹3.10 lakh
+Maruti Swift Dzire,56.49k km,2014,Petrol,Manual,₹3.10 lakh
+Maruti Celerio,38.77k km,2017,Petrol,Auto,₹3.50 lakh
+Maruti Wagon R 1.0,46.94k km,2015,CNG,Manual,₹2.70 lakh
+Maruti Ertiga,42.67k km,2015,CNG,Manual,₹5.80 lakh
+Maruti Wagon R 1.0,51.23k km,2014,CNG,Manual,₹2.40 lakh
+Maruti S PRESSO,25.98k km,2021,Petrol,Manual,₹3.30 lakh
+Maruti Alto K10,26.08k km,2023,CNG,Manual,₹4.38 lakh
+Maruti New Wagon-R,25.94k km,2018,Petrol,Auto,₹3.60 lakh
+Maruti Ertiga,41.66k km,2015,CNG,Manual,₹5.17 lakh
+Maruti Celerio,49.87k km,2016,Petrol,Auto,₹3.15 lakh
+Maruti Celerio,34.89k km,2022,CNG,Manual,₹4.45 lakh
+Maruti Alto 800,94.91k km,2014,CNG,Manual,₹1.80 lakh
+Maruti Alto K10,34.83k km,2016,CNG,Manual,₹2.20 lakh
+Maruti Alto 800,28.73k km,2017,Petrol,Manual,₹2.40 lakh
+Maruti BREZZA,37.72k km,2023,CNG,Manual,₹8.50 lakh
+Maruti Ertiga,34.15k km,2017,Petrol,Manual,₹5.60 lakh
+Maruti Swift Dzire,66.60k km,2015,Petrol,Manual,₹2.75 lakh
+Maruti Dzire,43.22k km,2018,Diesel,Manual,₹6.78 lakh
+Maruti Ertiga,51.24k km,2016,Petrol,Manual,₹5.50 lakh
+Maruti Celerio,47.20k km,2015,Petrol,Manual,₹2.67 lakh
+Maruti Dzire,68.95k km,2025,Petrol,Auto,₹4.75 lakh
+Maruti Vitara Brezza,62.32k km,2016,Diesel,Manual,₹6.57 lakh
+Maruti Wagon R 1.0,87.58k km,2012,Petrol,Manual,₹1.70 lakh
+Maruti Wagon R 1.0,45.05k km,2016,Petrol,Auto,₹2.62 lakh
+Maruti Vitara Brezza,27.76k km,2022,Petrol,Manual,₹6.46 lakh
+Maruti Swift Dzire,97.35k km,2013,Petrol,Manual,₹3.34 lakh
+Maruti Celerio,1.2L km,2020,Petrol,Manual,₹4.34 lakh
+Maruti Alto K10,74.89k km,2018,Petrol,Manual,₹2.88 lakh
+Maruti Swift Dzire,14.63k km,2013,Petrol,Manual,₹5.02 lakh
+Maruti Baleno,28.93k km,2020,Petrol,Manual,₹5.64 lakh
+Maruti Ertiga,23.51k km,2019,Petrol,Auto,₹8.17 lakh
+Maruti Wagon R 1.0,55.22k km,2013,Petrol,Manual,₹2.36 lakh
+Maruti Ertiga,1.6L km,2016,Petrol,Manual,₹7.32 lakh
+Maruti Ritz,20.20k km,2010,Petrol,Manual,₹1.45 lakh
+Maruti Wagon R 1.0,1.1L km,2011,Petrol,Manual,₹1.48 lakh
+Maruti Ciaz,76.78k km,2015,Petrol,Manual,₹3.70 lakh
+Maruti A Star,38.16k km,2012,Petrol,Auto,₹1.99 lakh
+Maruti Swift Dzire,1.9L km,2015,Diesel,Manual,₹2.25 lakh
+Maruti Wagon R 1.0,1.1L km,2012,Petrol,Manual,₹1.85 lakh
+Maruti Alto 800,73.59k km,2013,Petrol,Manual,₹1.78 lakh
+Maruti New Wagon-R,90.13k km,2020,Petrol,Manual,₹4.13 lakh
+Maruti Wagon R 1.0,1.4L km,2013,Petrol,Manual,₹1.96 lakh
+Maruti Swift Dzire,76.70k km,2016,Diesel,Manual,₹2.08 lakh
+Maruti Wagon R 1.0,1.0L km,2013,Petrol,Manual,₹2.13 lakh
+Maruti Alto 800,56.00k km,2013,Petrol,Manual,₹1.64 lakh
+Maruti Wagon R 1.0,2.3L km,2013,Petrol,Manual,₹2.31 lakh
+Maruti Alto 800,55.00k km,2014,Petrol,Manual,₹1.86 lakh
+Maruti Ertiga,39.96k km,2023,Petrol,Manual,₹8.78 lakh
+Maruti Wagon R 1.0,38.53k km,2013,Petrol,Manual,₹2.00 lakh
+Maruti Swift Dzire,70.91k km,2013,Petrol,Auto,₹2.67 lakh
+Maruti Swift Dzire,29.00k km,2013,Petrol,Manual,₹3.60 lakh
+Maruti Alto K10,65.98k km,2017,Petrol,Manual,₹2.11 lakh
+Maruti Vitara Brezza,94.08k km,2022,Petrol,Manual,₹6.51 lakh
+Maruti Swift,42.55k km,2013,Petrol,Manual,₹3.60 lakh
+Maruti Wagon R 1.0,91.19k km,2012,Petrol,Manual,₹1.78 lakh
+Maruti Alto 800,1.2L km,2014,Petrol,Manual,₹1.75 lakh
+Maruti Swift Dzire,39.84k km,2010,Petrol,Manual,₹2.06 lakh
+Maruti Wagon R 1.0,97.83k km,2014,Petrol,Manual,₹2.44 lakh
+Maruti Swift Dzire,44.24k km,2010,Diesel,Manual,₹2.07 lakh
+Maruti Dzire,45.39k km,2020,Petrol,Manual,₹4.30 lakh
+Maruti Wagon R 1.0,64.04k km,2014,Petrol,Manual,₹2.49 lakh
+Maruti Vitara Brezza,98.52k km,2019,Diesel,Auto,₹7.34 lakh
+Maruti Wagon R 1.0,31.08k km,2013,Petrol,Manual,₹2.02 lakh
+Maruti Swift,68.75k km,2018,Petrol,Auto,₹4.07 lakh
+Maruti Swift Dzire,1.3L km,2010,Petrol,Manual,₹1.40 lakh
+Maruti Wagon R 1.0,53.41k km,2013,Petrol,Manual,₹2.05 lakh
+Maruti S Cross,95.71k km,2018,Diesel,Manual,₹6.00 lakh
+Maruti Wagon R 1.0,90.61k km,2017,Petrol,Manual,₹2.20 lakh
+Maruti Alto 800,80.45k km,2014,Petrol,Manual,₹1.72 lakh
+Maruti Alto 800,82.02k km,2013,Petrol,Manual,₹1.50 lakh
+Maruti Wagon R 1.0,1.3L km,2014,Petrol,Manual,₹2.26 lakh
+Maruti Swift Dzire,15.50k km,2015,Petrol,Manual,₹3.60 lakh
+Maruti Ertiga,36.35k km,2019,Diesel,Manual,₹9.12 lakh
+Maruti Swift Dzire,1.2L km,2010,Petrol,Manual,₹1.22 lakh
+Maruti Wagon R 1.0,90.00k km,2013,Petrol,Manual,₹2.25 lakh
+Maruti Wagon R 1.0,1.2L km,2013,Petrol,Manual,₹1.75 lakh
+Maruti Celerio,94.69k km,2017,Petrol,Manual,₹2.62 lakh
+Maruti Wagon R 1.0,73.14k km,2017,Petrol,Manual,₹2.70 lakh
+Maruti Wagon R 1.0,1.6L km,2014,Petrol,Manual,₹2.00 lakh
+Maruti Swift Dzire,52.91k km,2011,Petrol,Manual,₹2.28 lakh
+Maruti Swift Dzire,38.73k km,2015,Diesel,Manual,₹6.96 lakh
+Maruti IGNIS,29.64k km,2017,Petrol,Auto,₹3.39 lakh
+Maruti Ciaz,60.21k km,2017,Petrol,Manual,₹4.32 lakh
+Maruti Alto K10,69.31k km,2015,Petrol,Manual,₹1.70 lakh
+Maruti Wagon R 1.0,94.50k km,2014,Petrol,Manual,₹2.40 lakh
+Maruti Wagon R 1.0,75.81k km,2013,Petrol,Manual,₹2.09 lakh
+Maruti Wagon R 1.0,1.5L km,2014,Petrol,Manual,₹2.50 lakh
+Maruti Alto K10,49.81k km,2015,Petrol,Auto,₹2.67 lakh
+Maruti Ritz,1.8L km,2016,Diesel,Manual,₹2.20 lakh
+Maruti Alto 800,1.3L km,2014,Petrol,Manual,₹1.67 lakh
+Maruti Celerio,82.30k km,2014,Petrol,Manual,₹2.70 lakh
+Maruti Eeco,59.60k km,2015,Petrol,Manual,₹4.16 lakh
+Maruti Wagon R 1.0,95.17k km,2014,Petrol,Manual,₹2.87 lakh
+Maruti Wagon R 1.0,95.55k km,2015,Petrol,Manual,₹2.32 lakh
+Maruti Wagon R 1.0,1.0L km,2015,Petrol,Manual,₹2.81 lakh
+Maruti Swift Dzire,1.4L km,2010,Petrol,Manual,₹1.52 lakh
+Maruti Swift Dzire,1.3L km,2016,Diesel,Manual,₹2.50 lakh
+Maruti Wagon R 1.0,1.3L km,2013,Petrol,Manual,₹2.41 lakh
+Maruti Wagon R 1.0,72.99k km,2013,Petrol,Manual,₹2.00 lakh
+Maruti Ertiga,1.1L km,2014,Petrol,Manual,₹5.59 lakh
+Maruti Dzire,62.74k km,2018,Petrol,Manual,₹4.34 lakh
+Maruti Wagon R 1.0,61.92k km,2015,Petrol,Manual,₹3.12 lakh
+Maruti Swift,50.83k km,2012,Petrol,Manual,₹2.48 lakh
+Maruti Ertiga,1.4L km,2012,Diesel,Manual,₹4.53 lakh
+Maruti Vitara Brezza,1.0L km,2016,Diesel,Manual,₹5.64 lakh
+Maruti Swift Dzire,1.2L km,2012,Diesel,Manual,₹2.20 lakh
+Maruti Wagon R 1.0,50.25k km,2013,Petrol,Manual,₹2.40 lakh
+Maruti Ertiga,95.93k km,2015,Petrol,Manual,₹5.42 lakh
+Maruti Wagon R 1.0,83.04k km,2013,Petrol,Manual,₹1.95 lakh
+Maruti Ertiga,47.01k km,2019,Petrol,Manual,₹7.80 lakh
+Maruti Wagon R 1.0,1.4L km,2013,Petrol,Manual,₹2.49 lakh
+Maruti Wagon R 1.0,90.43k km,2014,Petrol,Manual,₹2.45 lakh
+Maruti Wagon R 1.0,59.77k km,2013,Petrol,Manual,₹2.11 lakh
+Maruti SX4,1.6L km,2011,Petrol,Manual,₹2.29 lakh
+Maruti Wagon R 1.0,27.21k km,2013,Petrol,Manual,₹2.45 lakh
+Maruti Swift Dzire,1.8L km,2015,Diesel,Manual,₹2.49 lakh
+Maruti Wagon R 1.0,74.89k km,2012,Petrol,Manual,₹1.84 lakh
+Maruti Wagon R 1.0,1.6L km,2013,Petrol,Manual,₹2.00 lakh
+Maruti Wagon R 1.0,94.93k km,2014,Petrol,Manual,₹2.42 lakh
+Maruti Wagon R 1.0,26.24k km,2014,Petrol,Manual,₹2.67 lakh
+Maruti Ertiga,1.0L km,2014,Petrol,Manual,₹4.50 lakh
+Maruti Swift Dzire,51.22k km,2015,Petrol,Manual,₹3.72 lakh
+Maruti Wagon R 1.0,88.16k km,2013,Petrol,Manual,₹2.20 lakh
+Maruti Swift Dzire,1.0L km,2014,Petrol,Manual,₹3.66 lakh
+Maruti Alto 800,33.00k km,2016,Petrol,Manual,₹2.38 lakh
+Maruti Wagon R 1.0,56.37k km,2015,Petrol,Manual,₹2.25 lakh
+Maruti Wagon R 1.0,1.1L km,2016,Petrol,Manual,₹2.50 lakh
+Maruti Ciaz,2.5L km,2017,Diesel,Manual,₹5.08 lakh
+Maruti Swift Dzire,71.57k km,2013,Petrol,Manual,₹2.76 lakh
+Maruti Ertiga,71.69k km,2016,Petrol,Manual,₹6.30 lakh
+Maruti Wagon R 1.0,35.64k km,2012,Petrol,Manual,₹1.57 lakh
+Maruti Wagon R 1.0,61.20k km,2013,Petrol,Manual,₹1.82 lakh
+Maruti Wagon R 1.0,1.1L km,2013,Petrol,Manual,₹2.33 lakh
+Maruti Wagon R 1.0,76.33k km,2015,Petrol,Manual,₹2.77 lakh
+Maruti Wagon R 1.0,48.54k km,2014,Petrol,Manual,₹2.19 lakh
+Maruti Swift,73.03k km,2013,Petrol,Manual,₹2.73 lakh
+Maruti Wagon R 1.0,1.0L km,2013,Petrol,Manual,₹2.02 lakh
+Maruti Wagon R 1.0,25.19k km,2010,Petrol,Manual,₹1.24 lakh
+Maruti Swift Dzire,1.3L km,2010,Diesel,Manual,₹2.25 lakh
+Maruti Wagon R 1.0,94.38k km,2013,Petrol,Manual,₹2.00 lakh
+Maruti SX4,96.41k km,2011,Petrol,Manual,₹1.60 lakh
+Maruti Ritz,14.79k km,2010,Petrol,Manual,₹0.98 lakh
+Maruti Wagon R 1.0,27.69k km,2013,Petrol,Manual,₹2.45 lakh
+Maruti Celerio,7.67k km,2017,Petrol,Manual,₹2.96 lakh
+Maruti Swift Dzire,1.5L km,2012,Diesel,Manual,₹2.53 lakh
+Maruti Ertiga,50.57k km,2015,Petrol,Manual,₹5.80 lakh
+Maruti Wagon R 1.0,60.39k km,2013,Petrol,Manual,₹2.13 lakh
+Maruti Alto K10,38.83k km,2017,Petrol,Manual,₹2.48 lakh
+Maruti Ertiga,1.1L km,2014,Petrol,Manual,₹4.95 lakh
+Maruti Alto 800,60.84k km,2015,Petrol,Manual,₹1.80 lakh
+Maruti Wagon R 1.0,1.1L km,2013,Petrol,Manual,₹2.21 lakh
+Maruti Baleno,80.34k km,2020,Petrol,Manual,₹4.41 lakh
+Maruti Ertiga,73.98k km,2012,Petrol,Manual,₹2.65 lakh
+Maruti Baleno,74.51k km,2020,Petrol,Manual,₹4.88 lakh
+Maruti Wagon R 1.0,1.1L km,2015,Petrol,Manual,₹2.76 lakh
+Maruti Wagon R 1.0,1.2L km,2012,Petrol,Manual,₹1.70 lakh
+Maruti Ertiga,1.2L km,2014,Petrol,Manual,₹4.95 lakh
+Maruti Swift Dzire,1.2L km,2013,Petrol,Manual,₹2.46 lakh
+Maruti Swift Dzire,52.75k km,2010,Petrol,Manual,₹1.25 lakh
+Maruti Swift Dzire,58.90k km,2011,Petrol,Manual,₹1.70 lakh
+Maruti Zen Estilo,1.1L km,2010,Petrol,Manual,₹1.24 lakh
+Maruti Wagon R 1.0,48.08k km,2012,Petrol,Manual,₹1.83 lakh
+Maruti Zen Estilo,81.57k km,2010,Petrol,Manual,₹1.10 lakh
+Maruti Ertiga,43.42k km,2013,Petrol,Manual,₹3.96 lakh
+Maruti Alto K10,19.24k km,2015,Petrol,Auto,₹2.80 lakh
+Maruti Ertiga,2.6L km,2014,Petrol,Manual,₹5.38 lakh
+Maruti Swift Dzire,57.70k km,2013,Petrol,Manual,₹2.79 lakh
+Maruti Celerio,70.18k km,2014,Petrol,Manual,₹2.87 lakh
+Maruti Wagon R 1.0,70.35k km,2012,Petrol,Manual,₹1.80 lakh
+Maruti Swift Dzire,66.18k km,2014,Petrol,Manual,₹3.00 lakh
+Maruti Alto K10,27.69k km,2015,Petrol,Manual,₹1.50 lakh
+Maruti Wagon R 1.0,75.95k km,2012,Petrol,Manual,₹1.79 lakh
+Maruti Dzire,1.6L km,2018,Diesel,Manual,₹5.13 lakh
+Maruti Ertiga,50.79k km,2013,Petrol,Manual,₹5.00 lakh
+Maruti Swift Dzire,1.7L km,2014,Diesel,Manual,₹3.62 lakh
+Maruti Ciaz,55.46k km,2018,Petrol,Manual,₹5.25 lakh
+Maruti Swift,38.20k km,2023,Petrol,Manual,₹6.15 lakh
+Maruti Swift,72.10k km,2018,Petrol,Manual,₹4.44 lakh
+Maruti Ciaz,82.24k km,2016,Petrol,Auto,₹3.61 lakh
+Maruti Wagon R 1.0,1.0L km,2014,Petrol,Manual,₹2.47 lakh
+Maruti Wagon R 1.0,1.1L km,2012,Petrol,Manual,₹1.69 lakh
+Maruti Swift,31.93k km,2015,Diesel,Manual,₹3.14 lakh
+Maruti Swift,94.98k km,2018,Diesel,Manual,₹5.66 lakh
+Maruti Swift,66.34k km,2018,Petrol,Auto,₹4.37 lakh
+Maruti Swift Dzire,51.84k km,2015,Petrol,Manual,₹3.83 lakh
+Maruti Swift Dzire,1.2L km,2012,Diesel,Manual,₹1.99 lakh
+Maruti Wagon R 1.0,78.33k km,2017,Petrol,Manual,₹2.50 lakh
+Maruti A Star,72.64k km,2010,Petrol,Manual,₹1.04 lakh
+Maruti Wagon R 1.0,22.39k km,2011,Petrol,Manual,₹1.46 lakh
+Maruti Swift Dzire,1.2L km,2010,Petrol,Manual,₹2.50 lakh
+Maruti Ertiga,3.1L km,2013,Petrol,Manual,₹3.95 lakh
+Maruti Swift,16.01k km,2019,Petrol,Auto,₹4.87 lakh
+Maruti Wagon R 1.0,94.50k km,2014,Petrol,Manual,₹2.54 lakh
+Maruti Wagon R 1.0,77.57k km,2016,Petrol,Auto,₹2.95 lakh
+Maruti Wagon R 1.0,62.32k km,2015,Petrol,Manual,₹3.38 lakh
+Maruti Wagon R 1.0,84.57k km,2015,Petrol,Manual,₹3.11 lakh
+Maruti Ertiga,63.17k km,2015,Petrol,Manual,₹5.28 lakh
+Maruti FRONX,31.83k km,2023,Petrol,Manual,₹7.84 lakh
+Maruti Alto,80.58k km,2012,Petrol,Manual,₹0.90 lakh
+Maruti Swift Dzire,1.2L km,2011,Petrol,Manual,₹1.70 lakh
+Maruti Wagon R 1.0,76.30k km,2010,Petrol,Manual,₹0.95 lakh
+Maruti Baleno,1.2L km,2016,Petrol,Manual,₹4.22 lakh
+Maruti Ritz,43.67k km,2012,Petrol,Manual,₹1.50 lakh
+Maruti Zen Estilo,46.29k km,2010,Petrol,Manual,₹0.89 lakh
+Maruti Wagon R 1.0,54.49k km,2013,Petrol,Manual,₹2.35 lakh
+Maruti Ertiga,1.4L km,2013,Diesel,Manual,₹4.89 lakh
+Maruti Ertiga,86.91k km,2014,Petrol,Manual,₹5.58 lakh
+Maruti Wagon R Duo,1.4L km,2010,Petrol,Manual,₹1.00 lakh
+Maruti Wagon R 1.0,1.0L km,2010,Petrol,Manual,₹1.49 lakh
+Maruti Swift Dzire,65.05k km,2014,Petrol,Manual,₹3.50 lakh
+Maruti Swift Dzire,59.73k km,2011,Petrol,Manual,₹1.64 lakh
+Maruti Alto,28.34k km,2011,Petrol,Manual,₹0.87 lakh
+Maruti Ertiga,93.82k km,2015,Petrol,Manual,₹5.79 lakh
+Maruti Wagon R 1.0,62.78k km,2010,Petrol,Manual,₹1.45 lakh
+Maruti Wagon R 1.0,44.64k km,2011,Petrol,Manual,₹1.38 lakh
+Maruti Swift Dzire,40.18k km,2010,Petrol,Manual,₹1.71 lakh
+Maruti Swift Dzire,42.36k km,2013,Petrol,Manual,₹3.19 lakh
+Maruti Alto 800,65.11k km,2018,Petrol,Manual,₹2.52 lakh
+Maruti Dzire,42.17k km,2018,Diesel,Auto,₹5.81 lakh
+Maruti IGNIS,54.59k km,2017,Petrol,Manual,₹3.35 lakh
+Maruti Wagon R 1.0,1.2L km,2015,Petrol,Manual,₹2.50 lakh
+Maruti Alto K10,1.1L km,2010,Petrol,Manual,₹0.90 lakh
+Maruti Swift,1.1L km,2014,Petrol,Manual,₹3.00 lakh
+Maruti Celerio,24.61k km,2017,Petrol,Auto,₹3.25 lakh
+Maruti Ritz,1.8L km,2012,Diesel,Manual,₹1.64 lakh
+Maruti Dzire,58.38k km,2018,Petrol,Manual,₹4.93 lakh
+Maruti Swift,1.2L km,2010,Petrol,Manual,₹1.52 lakh
+Maruti Swift,30.97k km,2010,Petrol,Manual,₹1.70 lakh
+Maruti Wagon R 1.0,71.25k km,2015,Petrol,Manual,₹2.47 lakh
+Maruti Ertiga,72.65k km,2016,Petrol,Auto,₹5.14 lakh
+Maruti Dzire,94.26k km,2017,Diesel,Manual,₹5.19 lakh
+Maruti Alto 800,33.34k km,2018,Petrol,Manual,₹2.25 lakh
+Maruti Swift,29.49k km,2011,Petrol,Manual,₹1.67 lakh
+Maruti Wagon R 1.0,47.05k km,2014,Petrol,Manual,₹2.77 lakh
+Maruti Wagon R 1.0,34.80k km,2014,Petrol,Manual,₹2.41 lakh
+Maruti Swift Dzire,92.18k km,2011,Diesel,Manual,₹1.83 lakh
+Maruti Eeco,93.10k km,2011,Petrol,Manual,₹1.78 lakh
+Maruti Celerio,56.42k km,2014,Petrol,Manual,₹3.20 lakh
+Maruti Ertiga,89.00k km,2013,Petrol,Manual,₹4.58 lakh
+Maruti Ritz,61.87k km,2010,Petrol,Manual,₹1.42 lakh
+Maruti S Cross,52.30k km,2019,Diesel,Manual,₹7.25 lakh
+Maruti Swift Dzire,1.4L km,2016,Petrol,Manual,₹4.25 lakh
+Maruti Baleno,48.41k km,2017,Petrol,Manual,₹5.04 lakh
+Maruti Wagon R,410 km,2010,Petrol,Manual,₹1.39 lakh
+Maruti Ertiga,83.54k km,2018,Petrol,Manual,₹5.50 lakh
+Maruti Ciaz,73.14k km,2017,Petrol,Manual,₹4.67 lakh
+Maruti Alto 800,74.39k km,2012,Petrol,Manual,₹1.25 lakh
+Maruti XL6,19.64k km,2021,Petrol,Auto,₹9.66 lakh
+Maruti Ritz,1.3L km,2010,Petrol,Manual,₹0.89 lakh
+Maruti S Cross,1.4L km,2015,Diesel,Manual,₹3.90 lakh
+Maruti Zen Estilo,84.68k km,2013,Petrol,Manual,₹1.67 lakh
+Maruti Zen Estilo,75.61k km,2012,Petrol,Manual,₹1.40 lakh
+Maruti Swift Dzire,43.58k km,2011,Petrol,Manual,₹1.90 lakh
+Maruti Swift Dzire,93.13k km,2010,Diesel,Manual,₹1.86 lakh
+Maruti Wagon R 1.0,22.81k km,2014,Petrol,Manual,₹2.59 lakh
+Maruti Dzire,23.28k km,2018,Petrol,Manual,₹5.24 lakh
+Maruti Wagon R 1.0,96.37k km,2016,Petrol,Manual,₹2.59 lakh
+Maruti Celerio,25.14k km,2015,Petrol,Auto,₹3.15 lakh
+Maruti Wagon R 1.0,52.24k km,2015,Petrol,Manual,₹2.82 lakh
+Maruti Swift Dzire,3.7L km,2010,Petrol,Manual,₹1.14 lakh
+Maruti Eeco,1.4L km,2010,Petrol,Manual,₹2.53 lakh
+Maruti Alto K10,24.21k km,2011,Petrol,Manual,₹1.40 lakh
+Maruti Zen Estilo,77.51k km,2010,Petrol,Manual,₹0.77 lakh
+Maruti Alto 800,15.30k km,2016,Petrol,Manual,₹2.09 lakh
+Maruti Swift Dzire,1.5L km,2010,Petrol,Manual,₹1.23 lakh
+Maruti Alto K10,48.00k km,2011,Petrol,Manual,₹0.97 lakh
+Maruti Ertiga,94.35k km,2017,Petrol,Manual,₹6.67 lakh
+Maruti Ertiga,78.88k km,2020,Petrol,Manual,₹9.40 lakh
+Maruti Ciaz,27.57k km,2017,Petrol,Manual,₹4.45 lakh
+Maruti Wagon R 1.0,1.4L km,2016,Petrol,Manual,₹2.53 lakh
+Maruti Baleno,2.4L km,2016,Diesel,Manual,₹3.89 lakh
+Maruti Swift Dzire,52.25k km,2016,Petrol,Manual,₹4.08 lakh
+Maruti Ertiga,1.9L km,2015,Diesel,Manual,₹5.25 lakh
+Maruti SX4,1.4L km,2012,Petrol,Manual,₹1.10 lakh
+Maruti Wagon R 1.0,2.7L km,2015,Petrol,Manual,₹2.50 lakh
+Maruti Wagon R 1.0,45.39k km,2014,Petrol,Manual,₹2.61 lakh
+Maruti Swift Dzire,98.38k km,2010,Petrol,Manual,₹1.09 lakh
+Maruti Alto 800,6.5L km,2016,Petrol,Manual,₹2.19 lakh
+Maruti SX4,92.28k km,2011,Petrol,Auto,₹1.09 lakh
+Maruti Ritz,84.14k km,2010,Petrol,Manual,₹0.80 lakh
+Maruti Wagon R 1.0,37.17k km,2016,Petrol,Auto,₹2.80 lakh
+Maruti Celerio,64.73k km,2020,Petrol,Manual,₹4.88 lakh
+Maruti Ertiga,96.34k km,2015,Diesel,Manual,₹6.40 lakh
+Maruti Alto,25.85k km,2010,Petrol,Manual,₹1.28 lakh
+Maruti S PRESSO,76.50k km,2021,Petrol,Manual,₹3.71 lakh
+Maruti Ritz,61.32k km,2011,Petrol,Manual,₹1.40 lakh
+Maruti Ritz,14.21k km,2011,Petrol,Manual,₹1.30 lakh
+Maruti IGNIS,98.00k km,2017,Diesel,Manual,₹3.90 lakh
+Maruti Alto K10,88.72k km,2010,Petrol,Manual,₹0.94 lakh
+Maruti Ertiga,25.32k km,2017,Petrol,Manual,₹7.50 lakh
+Maruti XL6,1.6L km,2022,Petrol,Manual,₹9.08 lakh
+Maruti Ertiga,1.2L km,2014,Petrol,Manual,₹5.10 lakh
+Maruti Wagon R 1.0,1.6L km,2013,Petrol,Manual,₹2.39 lakh
+Maruti Alto K10,35.62k km,2010,Petrol,Manual,₹1.24 lakh
+Maruti Wagon R 1.0,32.51k km,2016,Petrol,Manual,₹3.19 lakh
+Maruti Zen Estilo,1.0L km,2010,Petrol,Manual,₹0.90 lakh
+Maruti Celerio,35.00k km,2017,Petrol,Manual,₹2.80 lakh
+Maruti Swift,93.90k km,2011,Petrol,Manual,₹1.70 lakh
+Maruti SX4,78.42k km,2011,Petrol,Manual,₹1.55 lakh
+Maruti Celerio,61.62k km,2014,Petrol,Manual,₹2.41 lakh
+Maruti Swift,80.84k km,2022,Petrol,Manual,₹4.79 lakh
+Maruti Swift Dzire,93.66k km,2013,Diesel,Manual,₹3.44 lakh
+Maruti Wagon R 1.0,1.1L km,2010,Petrol,Manual,₹1.30 lakh
+Maruti Baleno,1.3L km,2021,Petrol,Manual,₹4.79 lakh
+Maruti Wagon R 1.0,60.65k km,2016,Petrol,Auto,₹2.60 lakh
+Maruti Swift,42.25k km,2017,Petrol,Manual,₹4.25 lakh
+Maruti SX4,1.4L km,2013,Petrol,Manual,₹1.40 lakh
+Maruti Ertiga,1.2L km,2015,Petrol,Manual,₹5.00 lakh
+Maruti Swift Dzire,95.34k km,2011,Petrol,Manual,₹1.40 lakh
+Maruti Swift Dzire,77.73k km,2010,Petrol,Manual,₹1.20 lakh
+Maruti Alto K10,55.86k km,2011,Petrol,Manual,₹1.03 lakh
+Maruti SX4,1.1L km,2010,Petrol,Manual,₹0.90 lakh
+Maruti Alto,80.00k km,2011,Petrol,Manual,₹0.78 lakh
+Maruti Celerio,66.24k km,2015,Petrol,Auto,₹3.11 lakh
+Maruti Alto,70.00k km,2011,Petrol,Manual,₹1.21 lakh
+Maruti Swift,1.1L km,2010,Petrol,Manual,₹1.42 lakh
+Maruti Ertiga,88.36k km,2013,Petrol,Manual,₹3.62 lakh
+Maruti Eeco,42.59k km,2024,Petrol,Manual,₹6.54 lakh
+Maruti Eeco,1.5L km,2011,Petrol,Manual,₹2.25 lakh
+Maruti New Wagon-R,57.97k km,2019,Petrol,Manual,₹3.99 lakh
+Maruti Wagon R 1.0,94.90k km,2011,Petrol,Manual,₹1.50 lakh
+Maruti Wagon R 1.0,45.32k km,2017,Petrol,Manual,₹2.89 lakh
+Maruti Zen Estilo,12.62k km,2011,Petrol,Manual,₹1.20 lakh
+Maruti Swift,84.70k km,2010,Petrol,Manual,₹1.00 lakh
+Maruti Swift,1.3L km,2011,Petrol,Manual,₹1.90 lakh
+Maruti Ertiga,1.0L km,2017,Petrol,Manual,₹6.00 lakh
+Maruti Wagon R 1.0,74.37k km,2014,Petrol,Manual,₹2.40 lakh
+Maruti XL6,43.93k km,2021,Petrol,Manual,₹8.42 lakh
+Maruti Ciaz,1.8L km,2015,Diesel,Manual,₹4.17 lakh
+Maruti Wagon R 1.0,1.3L km,2018,Petrol,Manual,₹3.25 lakh
+Maruti Swift,45.58k km,2012,Diesel,Manual,₹2.90 lakh
+Maruti Dzire,1.1L km,2017,Diesel,Manual,₹5.73 lakh
+Maruti Ritz,63.28k km,2011,Petrol,Manual,₹1.10 lakh
+Maruti Celerio,26.71k km,2017,Petrol,Auto,₹3.47 lakh
+Maruti Zen Estilo,1.2L km,2013,Petrol,Manual,₹2.00 lakh
+Maruti Ertiga,72.65k km,2015,Petrol,Manual,₹4.51 lakh
+Maruti Swift,31.92k km,2015,Diesel,Manual,₹3.15 lakh
+Maruti Alto,20.39k km,2021,Petrol,Manual,₹3.25 lakh
+Maruti Dzire,59.53k km,2017,Diesel,Auto,₹5.42 lakh
+Maruti Wagon R 1.0,1.2L km,2011,Petrol,Manual,₹1.41 lakh
+Maruti Ertiga,1.1L km,2012,Diesel,Manual,₹4.59 lakh
+Maruti Ertiga,43.51k km,2013,Petrol,Manual,₹4.62 lakh
+Maruti Swift,1.0L km,2010,Petrol,Manual,₹1.64 lakh
+Maruti Ciaz,88.39k km,2016,Diesel,Manual,₹5.24 lakh
+Maruti Ciaz,66.62k km,2017,Petrol,Auto,₹5.18 lakh
+Maruti Wagon R 1.0,13.42k km,2017,Petrol,Manual,₹3.45 lakh
+Maruti Ertiga,63.90k km,2015,Petrol,Manual,₹5.70 lakh
+Maruti Ertiga,31.46k km,2019,Petrol,Auto,₹9.00 lakh
+Maruti Ertiga,72.93k km,2021,Petrol,Manual,₹9.37 lakh
+Maruti Wagon R Stingray,39.37k km,2015,Petrol,Manual,₹2.68 lakh
+Maruti Swift,1.1L km,2011,Diesel,Manual,₹1.98 lakh
+Maruti Swift,1.1L km,2011,Petrol,Manual,₹1.27 lakh
+Maruti SX4,1.2L km,2011,Diesel,Manual,₹1.70 lakh
+Maruti Alto,37.19k km,2022,Petrol,Manual,₹3.35 lakh
+Maruti Swift,27.71k km,2018,Petrol,Auto,₹5.21 lakh
+Maruti Baleno,42.52k km,2018,Diesel,Manual,₹4.80 lakh
+Maruti A Star,1.0L km,2010,Petrol,Manual,₹0.90 lakh
+Maruti Ertiga,83.51k km,2023,Petrol,Manual,₹11.38 lakh
+Maruti Eeco,32.49k km,2018,Petrol,Manual,₹4.70 lakh
+Maruti Celerio,19.70k km,2018,Petrol,Manual,₹3.30 lakh
+Maruti Wagon R 1.0,81.17k km,2011,Petrol,Manual,₹1.30 lakh
+Maruti Alto 800,65.57k km,2016,Petrol,Manual,₹2.05 lakh
+Maruti Swift Dzire,20.45k km,2014,Petrol,Manual,₹3.64 lakh
+Maruti Ertiga,87.35k km,2020,Petrol,Manual,₹9.97 lakh
+Maruti Wagon R 1.0,32.41k km,2016,Petrol,Auto,₹3.20 lakh
+Maruti Ritz,91.92k km,2010,Diesel,Manual,₹1.44 lakh
+Maruti Ertiga,2.0L km,2014,Petrol,Manual,₹5.15 lakh
+Maruti New Wagon-R,51.36k km,2019,Petrol,Manual,₹4.24 lakh
+Maruti Ritz,1.2L km,2010,Petrol,Manual,₹0.92 lakh
+Maruti Alto,56.18k km,2020,Petrol,Manual,₹3.29 lakh
+Maruti Alto,1.2L km,2010,Petrol,Manual,₹0.65 lakh
+Maruti Ertiga,1.9L km,2016,Petrol,Manual,₹5.60 lakh
+Maruti Swift Dzire,1.2L km,2014,Petrol,Manual,₹3.14 lakh
+Maruti Wagon R 1.0,12.60k km,2016,Petrol,Manual,₹2.99 lakh
+Maruti Ciaz,35.67k km,2018,Petrol,Auto,₹5.70 lakh
+Maruti FRONX,2.83k km,2024,Petrol,Manual,₹9.25 lakh
+Maruti Wagon R 1.0,29.65k km,2016,Petrol,Manual,₹3.36 lakh
+Maruti Celerio,33.15k km,2015,Petrol,Auto,₹3.10 lakh
+Maruti Ertiga,1.1L km,2016,Petrol,Manual,₹6.00 lakh
+Maruti Eeco,2.5L km,2011,Petrol,Manual,₹2.00 lakh
+Maruti Wagon R 1.0,63.69k km,2017,Petrol,Manual,₹3.10 lakh
+Maruti Swift Dzire,97.08k km,2013,Diesel,Manual,₹3.76 lakh
+Maruti Ertiga,1.2L km,2014,Diesel,Manual,₹5.76 lakh
+Maruti Ertiga,62.28k km,2012,Diesel,Manual,₹4.50 lakh
+Maruti S PRESSO,40.31k km,2020,Petrol,Auto,₹4.07 lakh
+Maruti Ertiga,22.57k km,2015,Petrol,Manual,₹5.69 lakh
+Maruti Ertiga,1.4L km,2017,Petrol,Manual,₹6.23 lakh
+Maruti Ciaz,75.05k km,2018,Petrol,Auto,₹6.10 lakh
+Maruti Baleno,92.64k km,2019,Petrol,Manual,₹4.60 lakh
+Maruti New Wagon-R,345 km,2025,Petrol,Manual,₹5.84 lakh
+Maruti Baleno,52.56k km,2017,Petrol,Auto,₹4.58 lakh
+Maruti Wagon R 1.0,88.63k km,2017,Petrol,Manual,₹3.00 lakh
+Maruti Baleno,52.87k km,2020,Petrol,Manual,₹5.15 lakh
+Maruti Ertiga,1.4L km,2013,Diesel,Manual,₹4.99 lakh
+Maruti Ertiga,1.0L km,2014,Petrol,Manual,₹5.41 lakh
+Maruti Swift,1.3L km,2019,Diesel,Auto,₹6.50 lakh
+Maruti Wagon R 1.0,33.96k km,2018,Petrol,Manual,₹3.25 lakh
+Maruti Ciaz,49.17k km,2015,Petrol,Manual,₹3.58 lakh
+Maruti Swift,1.1L km,2019,Diesel,Auto,₹6.50 lakh
+Maruti Ertiga,1.2L km,2017,Petrol,Manual,₹6.90 lakh
+Maruti Celerio,92.78k km,2014,Petrol,Auto,₹3.38 lakh
+Maruti Ertiga,87.84k km,2021,Petrol,Manual,₹9.84 lakh
+Maruti Ciaz,52.85k km,2017,Petrol,Auto,₹5.57 lakh
+Maruti Ertiga,1.0L km,2017,Petrol,Manual,₹6.67 lakh
+Maruti New Wagon-R,1.7L km,2019,Petrol,Manual,₹3.86 lakh
+Maruti Eeco,63.46k km,2017,Petrol,Manual,₹4.13 lakh
+Maruti Baleno,8.44k km,2018,Petrol,Manual,₹4.95 lakh
+Maruti Ertiga,30.93k km,2018,Petrol,Manual,₹7.50 lakh
+Maruti Celerio,54.00k km,2016,Petrol,Auto,₹3.05 lakh
+Maruti Ciaz,59.19k km,2016,Petrol,Manual,₹4.41 lakh
+Maruti Swift,38.00k km,2014,Petrol,Manual,₹2.98 lakh
+Maruti Ertiga,42.39k km,2014,Petrol,Manual,₹4.35 lakh
+Maruti Dzire,47.68k km,2022,Petrol,Manual,₹6.69 lakh
+Maruti Ertiga,47.71k km,2021,Petrol,Manual,₹10.00 lakh
+Maruti Baleno,24.10k km,2022,Petrol,Auto,₹7.59 lakh
+Maruti Vitara Brezza,1.3L km,2017,Diesel,Manual,₹5.30 lakh
+Maruti Swift Dzire,35.13k km,2014,Diesel,Manual,₹4.87 lakh
+Maruti Celerio,1.6L km,2014,Petrol,Manual,₹3.27 lakh
+Maruti IGNIS,1.0L km,2017,Petrol,Manual,₹2.51 lakh
+Maruti Celerio,1.0L km,2015,Petrol,Manual,₹3.00 lakh
+Maruti IGNIS,47.41k km,2017,Petrol,Auto,₹3.85 lakh
+Maruti Ertiga,37.22k km,2021,Petrol,Manual,₹8.33 lakh
+Maruti Swift,65.14k km,2012,Petrol,Manual,₹2.43 lakh
+Maruti Celerio,77.68k km,2015,Petrol,Auto,₹2.91 lakh
+Maruti Wagon R 1.0,26.89k km,2016,Petrol,Manual,₹3.25 lakh
+Maruti New Wagon-R,50.18k km,2020,Petrol,Manual,₹4.50 lakh
+Maruti Ertiga,1.4L km,2019,Diesel,Manual,₹9.44 lakh
+Maruti Eeco,30.00k km,2022,Petrol,Manual,₹5.05 lakh
+Maruti New Wagon-R,36.53k km,2019,Petrol,Manual,₹4.25 lakh
+Maruti Wagon R 1.0,61.00k km,2018,Petrol,Manual,₹3.74 lakh
+Maruti Ciaz,64.65k km,2015,Petrol,Auto,₹4.56 lakh
+Maruti S PRESSO,25.06k km,2020,Petrol,Auto,₹4.15 lakh
+Maruti Celerio,15.38k km,2022,Petrol,Manual,₹5.46 lakh
+Maruti IGNIS,52.43k km,2017,Petrol,Auto,₹3.87 lakh
+Maruti Baleno,1.0L km,2018,Petrol,Manual,₹5.07 lakh
+Maruti Ciaz,71.94k km,2016,Petrol,Manual,₹4.39 lakh
+Maruti Ciaz,80.29k km,2015,Petrol,Manual,₹3.82 lakh
+Maruti Baleno,57.58k km,2017,Petrol,Manual,₹4.50 lakh
+Maruti Swift Dzire,37.64k km,2015,Petrol,Manual,₹3.75 lakh
+Maruti Wagon R 1.0,35.68k km,2017,Petrol,Manual,₹3.15 lakh
+Maruti Celerio,68.07k km,2014,Petrol,Auto,₹2.92 lakh
+Maruti Ciaz,1.9L km,2016,Petrol,Manual,₹4.00 lakh
+Maruti Ertiga,1.4L km,2016,Petrol,Manual,₹4.66 lakh
+Maruti IGNIS,27.00k km,2019,Petrol,Manual,₹4.18 lakh
+Maruti Wagon R 1.0,48.10k km,2018,Petrol,Auto,₹4.00 lakh
+Maruti S PRESSO,92.26k km,2020,Petrol,Manual,₹3.00 lakh
+Maruti Ciaz,77.39k km,2017,Petrol,Auto,₹4.90 lakh
+Maruti Ertiga,1.2L km,2015,Petrol,Manual,₹3.98 lakh
+Maruti Wagon R 1.0,1.2L km,2017,Petrol,Manual,₹3.19 lakh
+Maruti Baleno,62.63k km,2017,Petrol,Auto,₹4.26 lakh
+Maruti Celerio,65.20k km,2022,Petrol,Manual,₹5.00 lakh
+Maruti IGNIS,1.1L km,2017,Petrol,Auto,₹3.42 lakh
+Maruti Ertiga,66.31k km,2015,Diesel,Manual,₹6.42 lakh
+Maruti Celerio,1.1L km,2018,Petrol,Manual,₹3.65 lakh
+Maruti Ertiga,68.69k km,2021,Petrol,Manual,₹10.50 lakh
+Maruti Ciaz,48.79k km,2017,Petrol,Auto,₹5.14 lakh
+Maruti Wagon R 1.0,57.41k km,2016,Petrol,Manual,₹3.06 lakh
+Maruti New Wagon-R,26.12k km,2021,Petrol,Manual,₹5.26 lakh
+Maruti XL6,8.72k km,2022,Petrol,Auto,₹11.41 lakh
+Maruti New Wagon-R,40.96k km,2022,Petrol,Manual,₹5.43 lakh
+Maruti S PRESSO,3.54k km,2021,Petrol,Manual,₹3.81 lakh
+Maruti Ertiga,68.16k km,2012,Petrol,Manual,₹3.59 lakh
+Maruti Celerio,1.2L km,2018,Petrol,Manual,₹3.60 lakh
+Maruti IGNIS,78.39k km,2018,Petrol,Manual,₹3.67 lakh
+Maruti Baleno,29.74k km,2022,Petrol,Manual,₹6.38 lakh
+Maruti Ciaz,9.40k km,2022,Petrol,Auto,₹10.10 lakh
+Maruti S PRESSO,35.52k km,2022,Petrol,Manual,₹3.78 lakh
+Maruti Baleno,8.54k km,2020,Petrol,Manual,₹5.68 lakh
+Maruti Baleno,49.75k km,2016,Petrol,Manual,₹4.50 lakh
+Maruti Ertiga,32.27k km,2015,Petrol,Manual,₹5.11 lakh
+Maruti Baleno,24.76k km,2020,Petrol,Manual,₹5.35 lakh
+Maruti New Wagon-R,1.4L km,2019,Petrol,Manual,₹4.13 lakh
+Maruti Baleno,1.1L km,2016,Diesel,Manual,₹4.55 lakh
+Maruti Alto,480 km,2022,Petrol,Manual,₹3.82 lakh
+Maruti New Wagon-R,10.20k km,2021,Petrol,Manual,₹5.13 lakh
+Maruti Grand Vitara,21.54k km,2024,Petrol,Manual,₹12.30 lakh
+Maruti Ertiga,76.00k km,2014,Petrol,Manual,₹5.52 lakh
+Maruti Dzire,25.15k km,2018,Petrol,Manual,₹5.14 lakh
+Maruti Baleno,27.59k km,2019,Petrol,Manual,₹5.30 lakh
+Maruti Baleno,1.3L km,2019,Petrol,Manual,₹4.50 lakh
+Maruti Celerio,93.50k km,2017,Petrol,Manual,₹3.99 lakh
+Maruti New Wagon-R,21.97k km,2019,Petrol,Manual,₹4.42 lakh
+Maruti Baleno,26.97k km,2020,Petrol,Manual,₹6.25 lakh
+Maruti New Wagon-R,64.75k km,2022,Petrol,Manual,₹5.50 lakh
+Maruti Swift,1.11k km,2016,Petrol,Manual,₹3.74 lakh
+Maruti New Wagon-R,96.21k km,2021,Petrol,Manual,₹4.82 lakh
+Maruti Swift Dzire,1.0L km,2015,Petrol,Manual,₹4.00 lakh
+Maruti Eeco,1.0L km,2014,Petrol,Manual,₹2.85 lakh
+Maruti Ertiga,57.65k km,2020,Petrol,Manual,₹9.57 lakh
+Maruti Ertiga,41.67k km,2016,Petrol,Manual,₹6.30 lakh
+Maruti Dzire,60.04k km,2017,Petrol,Manual,₹5.14 lakh
+Maruti Eeco,42.79k km,2022,Petrol,Manual,₹6.38 lakh
+Maruti Alto K10,15.46k km,2024,Petrol,Manual,₹4.80 lakh
+Maruti IGNIS,57.59k km,2017,Petrol,Auto,₹4.37 lakh
+Maruti Wagon R 1.0,84.08k km,2018,Petrol,Manual,₹3.10 lakh
+Maruti Ciaz,1.2L km,2017,Diesel,Manual,₹5.42 lakh
+Maruti Ciaz,1.1L km,2016,Diesel,Manual,₹4.75 lakh
+Maruti Baleno,51.57k km,2016,Petrol,Manual,₹4.39 lakh
+Maruti S PRESSO,63.00k km,2019,Petrol,Auto,₹3.28 lakh
+Maruti Dzire,56.19k km,2022,Petrol,Manual,₹7.07 lakh
+Maruti Dzire,28.32k km,2018,Petrol,Auto,₹5.14 lakh
+Maruti Ertiga,32.77k km,2020,Petrol,Manual,₹8.48 lakh
+Maruti IGNIS,32.69k km,2017,Petrol,Auto,₹4.63 lakh
+Maruti New Wagon-R,17.89k km,2023,Petrol,Manual,₹6.18 lakh
+Maruti Ertiga,21.17k km,2014,Petrol,Manual,₹4.52 lakh
+Maruti New Wagon-R,7.28k km,2021,Petrol,Manual,₹5.10 lakh
+Maruti Grand Vitara,11.49k km,2023,Petrol,Auto,₹13.86 lakh
+Maruti Ciaz,88.62k km,2017,Petrol,Auto,₹4.70 lakh
+Maruti New Wagon-R,39.02k km,2020,Petrol,Manual,₹4.57 lakh
+Maruti Baleno,59.95k km,2018,Petrol,Manual,₹4.73 lakh
+Maruti Baleno,57.70k km,2016,Petrol,Manual,₹3.77 lakh
+Maruti New Wagon-R,92.97k km,2021,Petrol,Manual,₹5.00 lakh
+Maruti Ertiga,51.97k km,2020,Petrol,Manual,₹8.87 lakh
+Maruti Ertiga,1.4L km,2015,Diesel,Manual,₹5.89 lakh
+Maruti Dzire,59.49k km,2018,Diesel,Manual,₹6.27 lakh
+Maruti Baleno,48.82k km,2016,Petrol,Auto,₹4.16 lakh
+Maruti Baleno,97.80k km,2016,Petrol,Manual,₹3.97 lakh
+Maruti Ertiga,1.4L km,2015,Petrol,Manual,₹4.30 lakh
+Maruti Dzire,57.80k km,2018,Petrol,Auto,₹5.08 lakh
+Maruti New Wagon-R,1.4L km,2021,Petrol,Manual,₹4.44 lakh
+Maruti Eeco,1.1L km,2022,Petrol,Manual,₹5.53 lakh
+Maruti Ertiga,1.4L km,2015,Petrol,Manual,₹4.14 lakh
+Maruti Ciaz,55.30k km,2018,Petrol,Auto,₹5.83 lakh
+Maruti Ertiga,1.1L km,2020,Petrol,Manual,₹9.00 lakh
+Maruti Baleno,6.58k km,2023,Petrol,Auto,₹7.07 lakh
+Maruti Ertiga,29.76k km,2015,Petrol,Manual,₹5.14 lakh
+Maruti Swift,51.31k km,2022,Petrol,Manual,₹6.33 lakh
+Maruti Baleno,21.78k km,2023,Petrol,Auto,₹8.17 lakh
+Maruti Dzire,66.56k km,2022,Petrol,Manual,₹6.69 lakh
+Maruti JIMNY,6.25k km,2023,Petrol,Auto,₹12.00 lakh
+Maruti Swift,4.65k km,2022,Petrol,Auto,₹7.20 lakh
+Maruti Baleno,34.79k km,2016,Petrol,Manual,₹4.79 lakh
+Maruti Grand Vitara,7.52k km,2023,Petrol,Auto,₹12.86 lakh
+Maruti FRONX,10.03k km,2024,Petrol,Manual,₹9.76 lakh
+Maruti Grand Vitara,6.50k km,2023,Petrol,Manual,₹11.61 lakh
+Maruti Celerio,47.56k km,2022,Petrol,Manual,₹4.88 lakh
+Maruti Swift,2.45k km,2024,Petrol,Auto,₹9.22 lakh
+Maruti New Wagon-R,12.91k km,2024,Petrol,Manual,₹6.86 lakh
+Maruti Vitara Brezza,1.2L km,2019,Diesel,Auto,₹7.49 lakh
+Maruti New Wagon-R,44.38k km,2023,Petrol,Manual,₹6.00 lakh
+Maruti Ertiga,84.14k km,2018,Petrol,Manual,₹7.47 lakh
+Maruti Baleno,61.10k km,2020,Petrol,Auto,₹6.59 lakh
+Maruti Vitara Brezza,38.87k km,2018,Diesel,Auto,₹7.69 lakh
+Maruti New Wagon-R,31.38k km,2022,Petrol,Manual,₹5.86 lakh
+Maruti IGNIS,17.39k km,2021,Petrol,Manual,₹5.74 lakh
+Maruti Ciaz,79.71k km,2019,Petrol,Auto,₹5.72 lakh
+Maruti Ciaz,42.55k km,2021,Petrol,Auto,₹7.69 lakh
+Maruti S Cross,73.46k km,2015,Diesel,Manual,₹4.61 lakh
+Maruti Baleno,10.72k km,2021,Petrol,Manual,₹6.26 lakh
+Maruti Swift Dzire,1.5L km,2012,Diesel,Manual,₹3.14 lakh
+Maruti Vitara Brezza,96.33k km,2018,Diesel,Manual,₹6.55 lakh
+Maruti Ertiga,1.1L km,2018,Petrol,Manual,₹6.73 lakh
+Maruti Grand Vitara,19.61k km,2024,Petrol,Manual,₹11.65 lakh
+Maruti Ciaz,1.0L km,2014,Diesel,Manual,₹3.70 lakh
+Maruti FRONX,20.07k km,2023,Petrol,Auto,₹8.11 lakh
+Maruti New Wagon-R,58.26k km,2021,Petrol,Manual,₹4.63 lakh
+Maruti S Cross,56.83k km,2018,Diesel,Manual,₹6.72 lakh
+Maruti Swift Dzire,1.9L km,2012,Diesel,Manual,₹3.22 lakh
+Maruti Celerio,26.84k km,2017,Petrol,Manual,₹3.50 lakh
+Maruti JIMNY,25.55k km,2023,Petrol,Auto,₹12.18 lakh
+Maruti XL6,89.23k km,2019,Petrol,Auto,₹8.69 lakh
+Maruti BREZZA,4.97k km,2023,Petrol,Auto,₹13.23 lakh
+Maruti Ertiga,8.70k km,2022,Petrol,Manual,₹10.55 lakh
+Maruti S Cross,1.5L km,2015,Diesel,Manual,₹3.51 lakh
+Maruti XL6,9.96k km,2024,Petrol,Auto,₹14.46 lakh
+Maruti Ciaz,24.05k km,2022,Petrol,Manual,₹8.68 lakh
+Maruti S Cross,1.1L km,2016,Diesel,Manual,₹5.24 lakh
+Maruti Swift,6.0L km,2022,Petrol,Auto,₹7.05 lakh
+Maruti Vitara Brezza,20.17k km,2019,Diesel,Manual,₹8.40 lakh
+Maruti XL6,10.02k km,2023,Petrol,Auto,₹14.09 lakh
+Maruti Celerio X,81.27k km,2018,Petrol,Manual,₹3.38 lakh
+Maruti XL6,49.57k km,2019,Petrol,Auto,₹8.61 lakh
+Maruti XL6,60.21k km,2023,Petrol,Manual,₹11.19 lakh
+Maruti BREZZA,4.93k km,2025,Petrol,Manual,₹10.06 lakh
+Maruti Ciaz,1.8L km,2015,Diesel,Manual,₹4.50 lakh
+Maruti Ciaz,28.21k km,2019,Petrol,Auto,₹6.35 lakh
+Maruti XL6,55.51k km,2019,Petrol,Auto,₹8.56 lakh
+Maruti S Cross,85.31k km,2016,Diesel,Manual,₹5.14 lakh
+Maruti Grand Vitara,62.60k km,2023,Petrol,Auto,₹11.93 lakh
+Maruti JIMNY,27.89k km,2023,Petrol,Auto,₹12.05 lakh
+Maruti JIMNY,24.86k km,2023,Petrol,Manual,₹11.00 lakh
+Maruti Baleno,8.27k km,2024,Petrol,Manual,₹9.20 lakh
+Maruti Alto 800,36.06k km,2012,Petrol,Manual,₹1.37 lakh
+Maruti Swift Dzire,12.35k km,2010,Petrol,Manual,₹1.23 lakh
+Maruti New Wagon-R,18.95k km,2022,Petrol,Auto,₹5.79 lakh
+Maruti Wagon R 1.0,97.50k km,2015,Petrol,Manual,₹2.79 lakh
+Maruti BREZZA,36.58k km,2024,Petrol,Manual,₹9.00 lakh
+Maruti Alto K10,35.70k km,2010,Petrol,Manual,₹1.28 lakh
+Maruti Ciaz,70.00k km,2017,Diesel,Manual,₹5.75 lakh
+Maruti Alto,5.64k km,2010,Petrol,Manual,₹0.70 lakh
+Maruti Swift Dzire,1.1L km,2013,Petrol,Manual,₹2.76 lakh
+Maruti Wagon R 1.0,1.0L km,2013,Petrol,Manual,₹1.90 lakh
+Maruti Swift,87.89k km,2020,Petrol,Auto,₹5.89 lakh
+Maruti FRONX,17.90k km,2024,Petrol,Auto,₹7.85 lakh
+Maruti Ertiga,50.05k km,2018,Diesel,Manual,₹7.55 lakh
+Maruti Baleno,56.77k km,2019,Petrol,Manual,₹4.89 lakh
+Maruti Ertiga,24.87k km,2019,Petrol,Manual,₹9.00 lakh
+Maruti S PRESSO,10.93k km,2024,Petrol,Auto,₹5.00 lakh
+Maruti Wagon R 1.0,14.82k km,2015,Petrol,Manual,₹2.94 lakh
+Maruti Ertiga,66.10k km,2019,Petrol,Manual,₹8.71 lakh
+Maruti Swift Dzire,46.39k km,2010,Diesel,Manual,₹1.78 lakh
+Maruti Wagon R 1.0,1.0L km,2014,Petrol,Manual,₹2.54 lakh
+Maruti Celerio,1.3L km,2017,Petrol,Manual,₹3.90 lakh
+Maruti Swift,1.3L km,2014,Petrol,Manual,₹3.45 lakh
+Maruti XL6,38.78k km,2021,Petrol,Auto,₹9.58 lakh
+Maruti FRONX,7.46k km,2024,Petrol,Auto,₹9.00 lakh
+Maruti Swift,28.90k km,2015,Petrol,Manual,₹3.50 lakh
+Maruti Ertiga,1.0L km,2016,Petrol,Manual,₹6.24 lakh
+Maruti SX4,67.42k km,2013,Petrol,Manual,₹1.71 lakh
+Maruti Wagon R 1.0,1.1L km,2012,Petrol,Manual,₹1.75 lakh
+Maruti Ertiga,64.00k km,2013,Petrol,Manual,₹3.81 lakh
+Maruti Baleno,75.57k km,2016,Petrol,Manual,₹3.74 lakh
+Maruti XL6,8.72k km,2024,Petrol,Manual,₹13.00 lakh
+Maruti Baleno,58.28k km,2016,Petrol,Manual,₹3.58 lakh
+Maruti Dzire,48.48k km,2018,Petrol,Manual,₹4.59 lakh
+Maruti Ertiga,62.19k km,2020,Petrol,Manual,₹7.50 lakh
+Maruti Wagon R 1.0,59.45k km,2015,Petrol,Manual,₹2.36 lakh
+Maruti Ertiga,1.0L km,2016,Petrol,Manual,₹7.22 lakh
+Maruti Ertiga,81.67k km,2016,Petrol,Manual,₹6.80 lakh
+Maruti Eeco,46.02k km,2021,Petrol,Manual,₹6.64 lakh
+Maruti Swift Dzire,51.96k km,2011,Petrol,Manual,₹1.94 lakh
+Maruti XL6,90.94k km,2019,Petrol,Manual,₹7.34 lakh
+Maruti Dzire,75.60k km,2020,Petrol,Manual,₹5.32 lakh
+Maruti Alto,95.38k km,2011,Petrol,Manual,₹0.94 lakh
+Maruti Alto,9.94k km,2020,Petrol,Manual,₹3.12 lakh
+Maruti Ertiga,49.13k km,2024,CNG,Manual,₹10.25 lakh
+Maruti Ertiga,31.78k km,2019,Petrol,Manual,₹7.25 lakh
+Maruti Swift,37.30k km,2023,Petrol,Manual,₹4.95 lakh
+Maruti Alto K10,31.46k km,2016,Petrol,Manual,₹1.83 lakh
+Maruti Ritz,19.89k km,2014,Petrol,Manual,₹2.00 lakh
+Maruti IGNIS,85.57k km,2017,Petrol,Manual,₹3.00 lakh
+Maruti Dzire,16.40k km,2019,Petrol,Manual,₹4.78 lakh
+Maruti Celerio,81.93k km,2018,CNG,Manual,₹3.36 lakh
+Maruti Vitara Brezza,61.31k km,2018,Diesel,Manual,₹6.98 lakh
+Maruti Wagon R 1.0,55.91k km,2014,Petrol,Manual,₹2.32 lakh
+Maruti New Wagon-R,39.00k km,2019,Petrol,Manual,₹4.00 lakh
+Maruti Ciaz,63.31k km,2017,CNG,Manual,₹4.02 lakh
+Maruti Ciaz,36.37k km,2018,Petrol,Manual,₹4.80 lakh
+Maruti Baleno,14.76k km,2017,Petrol,Auto,₹4.63 lakh
+Maruti Wagon R 1.0,98.44k km,2016,CNG,Manual,₹2.75 lakh
+Maruti Ertiga,1.3L km,2020,Petrol,Manual,₹7.30 lakh
+Maruti Alto K10,30.27k km,2018,CNG,Manual,₹2.85 lakh
+Maruti S PRESSO,63.36k km,2020,Petrol,Manual,₹2.95 lakh
+Maruti Ertiga,67.83k km,2017,Petrol,Manual,₹5.35 lakh
+Maruti Baleno,48.56k km,2018,Petrol,Auto,₹5.25 lakh
+Maruti IGNIS,16.36k km,2021,Petrol,Auto,₹4.81 lakh
+Maruti Alto K10,46.13k km,2015,Petrol,Auto,₹2.10 lakh
+Maruti Ciaz,67.20k km,2020,Petrol,Manual,₹6.25 lakh
+Maruti Swift,53.02k km,2022,Petrol,Auto,₹6.35 lakh
+Maruti IGNIS,35.40k km,2018,Petrol,Manual,₹3.55 lakh
+Maruti Vitara Brezza,41.02k km,2018,Diesel,Auto,₹7.21 lakh
+Maruti Wagon R 1.0,68.03k km,2013,CNG,Manual,₹2.15 lakh
+Maruti IGNIS,28.72k km,2021,Petrol,Manual,₹4.25 lakh
+Maruti Ertiga,74.46k km,2016,CNG,Manual,₹6.20 lakh
+Maruti Baleno,73.15k km,2016,Petrol,Manual,₹3.75 lakh
